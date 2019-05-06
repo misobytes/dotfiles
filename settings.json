@@ -1,0 +1,13 @@
+{
+    "search.location": "panel",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.scrollback": 10000,
+    "editor.insertSpaces": false,
+    "editor.fontFamily": "FiraCode-Retina, Monaco",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "300",
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 0
+}
